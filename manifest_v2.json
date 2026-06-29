@@ -1,0 +1,29 @@
+{
+  "item": {
+    "id": "979811111111",
+    "restype": "watchface",
+    "name": "Test",
+    "description": "TestTestTest",
+    "preview": [
+      "media/bg.png"
+    ],
+    "icon": "",
+    "cover": "media/bg.png",
+    "author": [
+      {
+        "name": "66hh_astrobox",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmrw5": {
+      "version": "0.0.0",
+      "file_name": "downloads/10p.bin"
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
